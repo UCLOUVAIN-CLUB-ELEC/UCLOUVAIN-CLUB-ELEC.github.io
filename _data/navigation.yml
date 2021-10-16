@@ -1,0 +1,4 @@
+- name: Projects
+  link: /posts/
+- name: Contact
+  link: mailto:example@mail.com
