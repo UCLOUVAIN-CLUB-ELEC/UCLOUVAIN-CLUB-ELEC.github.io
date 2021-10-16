@@ -31,8 +31,10 @@ permalink: pretty
 github_username: UCLOUVAIN-CLUB-ELEC
 
 # Build settings
-theme: bulma-clean-theme
+
+remote_theme: chrisrhymes/bulma-clean-theme@v0.11.2
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
