@@ -6,4 +6,7 @@ subtitle: This is the site of the UCLouvain CLUB ELEC
 layout: page
 callouts: home_callouts
 show_sidebar: true
+hero_image: /img/elec-2000x1200.jpg
 ---
+
+Located at *Enter Address Here*, the UCLouvain CLUB ELEC, *complete text...*

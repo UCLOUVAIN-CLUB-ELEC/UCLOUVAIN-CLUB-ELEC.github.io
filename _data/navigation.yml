@@ -1,4 +1,12 @@
 - name: Projects
-  link: /posts/
+  link: /projects/
+- name: Services
+  link: /services/
+- name: Activities
+  link: /activities/
+- name: Equipment
+  link: /equipment/
+- name: About
+  link: /about/
 - name: Contact
   link: mailto:example@mail.com
