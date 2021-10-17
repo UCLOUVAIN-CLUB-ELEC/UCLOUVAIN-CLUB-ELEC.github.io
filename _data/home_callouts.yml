@@ -1,7 +1,7 @@
 items:
   - title: Electronics for Everyone
-    subtitle: Join us, wether you are a UCLouvain student or not!
-    icon:  fa-leanpub
+    subtitle: Join us whoever you are!
+    icon: fa-bolt
     call_to_action_name: Get Map Direction
     call_to_action_link: https://www.google.com/maps/dir//50.6685047,4.6227616/@50.6685971,4.5527008,21462m/data=!3m1!1e3!4m2!4m1!3e0
   - title: A Collaborative Project
