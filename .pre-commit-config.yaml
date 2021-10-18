@@ -9,7 +9,3 @@ repos:
     rev: v1.0.5
     hooks:
     -   id: csslint
--   repo: https://github.com/pre-commit/mirrors-scss-lint
-    rev: v0.59.0
-    hooks:
-    -   id: scss-lint
