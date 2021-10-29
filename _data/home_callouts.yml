@@ -5,7 +5,7 @@ items:
     call_to_action_name: Où nous retrouver? 
     call_to_action_link: https://www.google.com/maps/dir//50.6685047,4.6227616/@50.6685971,4.5527008,21462m/data=!3m1!1e3!4m2!4m1!3e0
   - title: Un projet collaboratif
-    subtitle: N'importe qui peut contribuer au CLUB ELEC
+    subtitle: N'importe qui peut contribuer au Club Elec
     icon: fa-users
     call_to_action_name: Comment participer?
     call_to_action_link: /contributing/
