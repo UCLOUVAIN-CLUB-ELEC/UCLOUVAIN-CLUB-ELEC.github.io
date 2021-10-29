@@ -1,3 +1,5 @@
+- name: Accueil
+  link: /
 - name: Projets
   link: /projects/
 - name: Services
