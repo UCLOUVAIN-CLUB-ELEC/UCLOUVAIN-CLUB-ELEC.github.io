@@ -1,12 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: UCLouvain CLUB ELEC
-subtitle: Activities by, and for, Electronics Enthusiasts
+title: Club Elec
+subtitle: Des activités par et pour les amateurs d'électronique
 layout: page
 callouts: home_callouts
 show_sidebar: true
 hero_image: /img/elec-2000x1200.jpg
 ---
 
-Located at *Enter Address Here*, the UCLouvain CLUB ELEC, *complete text...*
+Le Club Elec est une organisation tenue par des doctorants de l'UCLouvain qui vise à rendre plus accessible la pratique de l'électronique. Situé dans le département d'ingénierie électronique de l'UCLouvain (ELEN) et à proximité de l'Ecole polytechnique de Louvain (EPL), il offre un lieu de rencontre pour les citoyens ou étudiants curieux de se plonger dans le monde des circuits. Que vous ayez déjà un projet précis en tête ou non, vous découvrirez sur ce site ce que le Club Elec peut faire pour vous!
