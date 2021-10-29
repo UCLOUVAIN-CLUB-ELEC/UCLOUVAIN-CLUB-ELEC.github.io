@@ -1,6 +1,6 @@
 ---
-title: Activities
-subtitle: Find here all the future activities we will organize
+title: Activités
+subtitle: Le calendrier de nos activités passées et futures
 layout: page
 ---
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"

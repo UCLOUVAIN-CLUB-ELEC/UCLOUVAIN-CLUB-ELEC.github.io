@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to our website!"
+title:  "Un premier post! Comment contribuer..."
 date:   2021-10-16 14:53:48 +0200
 categories: jekyll update
 ---

@@ -1,12 +1,12 @@
-- name: Projects
+- name: Projets
   link: /projects/
 - name: Services
   link: /services/
-- name: Activities
+- name: Activités
   link: /activities/
-- name: Equipment
+- name: Equipements
   link: /equipment/
-- name: About
+- name: À propos
   link: /about/
 - name: Contact
   link: mailto:example@mail.com
