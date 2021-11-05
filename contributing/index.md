@@ -10,6 +10,6 @@ La participation au Club Elec peut se faire de plusieurs façons:
 * En nous rejoignant lors des permanences organisées à notre local pour faire connaissance et discuter avec le staff
 * En participant aux [activités](/activities/) et projets ponctuels proposés durant l'année
 * En proposant vos propres projets électroniques pour les réaliser au Club Elec et les partager avec notre [communauté](https://github.com/UCLOUVAIN-CLUB-ELEC)
-* En nous contactant par [message](example@mail.com)
+* En nous contactant par [message](ieee-club-elec@listes.uclouvain.be)
 
 Notez que grâce au soutien financier de l'organisation [UCLouvain IEEE Student Branch](https://sites.uclouvain.be/ieee/) et du département [ELEN](https://uclouvain.be/en/research-institutes/icteam/elen), les activités organisées par le Club Elec sont majoritairement gratuites!
