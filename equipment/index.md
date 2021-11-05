@@ -4,7 +4,7 @@ subtitle: La liste des équipements que vous pourrez trouver dans le local du cl
 layout: page
 ---
 
-Le matériel ci-dessous est accessible gratuitement au Club Elec lors des permanences. Pour plus d'informations sur l'utilisation correcte des équipements, n'hésitez pas à vous adresser à un membre du staff. 
+Le matériel ci-dessous est accessible gratuitement au Club Elec lors des permanences. Pour plus d'informations sur l'utilisation correcte des équipements, n'hésitez pas à vous adresser à un membre du staff.
 
 * Equipement de laboratoire
     * Oscilloscopes
@@ -23,4 +23,4 @@ Le matériel ci-dessous est accessible gratuitement au Club Elec lors des perman
     * Circuits intégrés
     * ...
 
-Il est également possible, sur demande et pour des projets spécifiques, d'accéder à de plus larges infrastructures du département ELEN (fabrication de PCB avec fraiseuse CNC, four à soudure CMS, équipements de caractérisation avancés). 
+Il est également possible, sur demande et pour des projets spécifiques, d'accéder à de plus larges infrastructures du département ELEN (fabrication de PCB avec fraiseuse CNC, four à soudure CMS, équipements de caractérisation avancés).
