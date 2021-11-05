@@ -4,7 +4,7 @@ subtitle: Découvrez comment nous aider à améliorer le Club Elec
 layout: page
 ---
 
-Le Club Elec fonctionne principalement grâce au soutien d'un staff composé de doctorants du département ELEN de l'UCLouvain, mais toute personne intéressée par l'électronique est la bienvenue pour nous rejoindre. Nos activités sont destinées principalement aux les étudiants de l'UCLouvain et sont également ouvertes à tout amateur d'électronique, débutant ou confirmé. 
+Le Club Elec fonctionne principalement grâce au soutien d'un staff composé de doctorants du département ELEN de l'UCLouvain, mais toute personne intéressée par l'électronique est la bienvenue pour nous rejoindre. Nos activités sont destinées principalement aux les étudiants de l'UCLouvain et sont également ouvertes à tout amateur d'électronique, débutant ou confirmé.
 
 La participation au Club Elec peut se faire de plusieurs façons:
 * En nous rejoignant lors des permanences organisées à notre local pour faire connaissance et discuter avec le staff
