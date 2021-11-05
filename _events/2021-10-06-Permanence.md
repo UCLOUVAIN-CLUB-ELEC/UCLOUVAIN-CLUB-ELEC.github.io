@@ -2,9 +2,9 @@
 layout: event
 title:  "Permanence"
 subtitle: "au local du Club Elec"
-start_date: 2021-10-6
+start_date: 2021-10-06
 start_hour: "12:30:00"
-end_date: 2021-10-6
+end_date: 2021-10-06
 end_hour: "14:00:00"
 ---
 
