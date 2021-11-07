@@ -4,7 +4,14 @@ layout: default
 
 <div class="content">
 
-    <p>Publié le : {{ page.date | date: "%-d %B, %Y" }}</p>
+    {% capture french_date %}
+    {{ page.date | date: "%-d" }}
+    {% assign m = page.date | date: "%-m" | minus: 1 %}
+    {{ site.data.fr.months[m] }}
+    {{ page.date | date: "%Y" }}
+    {% endcapture %}
+
+    <p>Publié le {{ french_date }}</p>
 
     {{ content }}
 </div>
