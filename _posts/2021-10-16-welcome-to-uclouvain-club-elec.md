@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Un premier post! Comment contribuer..."
-date:   2021-10-16 14:53:48 +0200
-categories: jekyll update
+title: "Un premier post! Comment contribuer..."
+date: 2021-10-16 14:53:48 +0200
 ---
 Et voici le site web flambant neuf du Club Elec! Vous y trouverez toutes les informations nécessaires sur nos activités, services, équipements et bien d'autres. N'hésitez pas à passer nous voir pour discuter de vos projets électroniques.
 
