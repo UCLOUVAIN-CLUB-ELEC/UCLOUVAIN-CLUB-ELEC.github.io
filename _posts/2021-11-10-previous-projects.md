@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nos projets passés"
+title: "Des projets en accès libre"
 date: 2021-11-10 14:53:48 +0200
 ---
 Pour rendre l'électronique accessible au plus grand nombre, nous avons décidé de mettre tous nos projets passés et futurs en accès libre!
