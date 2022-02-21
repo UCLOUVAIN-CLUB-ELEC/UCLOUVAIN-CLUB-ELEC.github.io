@@ -1,13 +1,11 @@
 ---
 layout: event
-title:  "Atelier"
-subtitle: "InfluencAir LLN"
-start_date: 2022-03-10
-start_hour: "20:30:00"
-end_date: 2022-03-10
-end_hour: "22:00:00"
+title:  "Permanence"
+subtitle: "au local du Club Elec"
+start_date: 2021-10-06
+start_hour: "12:30:00"
+end_date: 2021-10-06
+end_hour: "14:00:00"
 ---
 
-Cet atelier est organisé dans le cadre du projet InfluencAir. Plus d'informations sur le [site du projet InfluencAir][influencair].
-
-[influencair]: https://www.openhub.be/influencair-lln
+Retrouvez-nous comme toutes les semaines au local du Club Elec pour avancer sur vos projets d'électronique!
