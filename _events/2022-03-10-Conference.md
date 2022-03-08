@@ -8,7 +8,7 @@ end_date: 2022-03-10
 end_hour: "20:30:00"
 ---
 
-Cette conférence est organisé dans le cadre du projet InfluencAir.
+Cette conférence est organisée dans le cadre du projet InfluencAir.
 Elle portera sur les sources, les impacts et l'évaluation de la pollution de l’air.
 Plus d'informations sur le [site du projet InfluencAir][influencair].
 
