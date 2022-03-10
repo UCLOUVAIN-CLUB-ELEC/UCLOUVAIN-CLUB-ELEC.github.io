@@ -12,7 +12,7 @@ jobs:
       - name: Checkout sources
         uses: actions/checkout@v2
       - name: Search and rename files to contain underscores
-        run: find _events _posts -name "*.md" | xargs -n 1 python -c "import sys, os; file = sys.argv[1]; os.rename(file, file.replace('-', '_'));"
+        run: find _events -name "*.md" | xargs -n 1 python -c "import sys, os; file = sys.argv[1]; os.rename(file, file.replace('-', '_'));"
       - uses: EndBug/add-and-commit@v8 # You can change this to use a specific version.
       - name: Commit changes
         uses: EndBug/add-and-commit@v8
