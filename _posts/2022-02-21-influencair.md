@@ -9,7 +9,6 @@ Au travers d'un atelier organisé en collaboration avec l'OpenHub et le Makilab 
 
 Ces ateliers et conférences sont ouverts à tous et ne nécessitent pas de connaissances particulières. Plus de détails sont disponibles sur le [site du projet InfluencAir][influencair].
 
-<img src="/img/2022-03-10-influencair/atelier1.jpg" alt="picture1" width="400"/>
-<img src="/img/2022-03-10-influencair/conference1.jpg" alt="picture2" width="400"/>
+<img src="/img/2022-03-10-incluencair/atelier1.jpg" alt="picture1" width="400"/> <img src="/img/2022-03-10-incluencair/conference1.jpg" alt="picture2" width="600"/>
 
 [influencair]: https://www.openhub.be/influencair-lln
