@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Hands-o Arduino & RFID"
+title:  "Hands-on Arduino & RFID"
 subtitle: "au local Shannon, bâtiment Maxwell, 1er étage"
 start_date: 2022-11-17
 start_hour: "12:50:00"
