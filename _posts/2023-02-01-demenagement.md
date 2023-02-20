@@ -9,7 +9,7 @@ Après plusieurs changements de local au cours des dernières années, le Club E
 
 Le local se trouve au rez-de-chaussée du bâtiment Maxwell, juste à gauche de l'entrée principale. Grâce à la contribution du pôle ELEN, du mobilier ainsi que de nombreux équipements ont pu être achetés pour aménager cet endroit et vous fournir toujours plus de services. 
 
-<img src="/img/2023-02-01-demenagement/photo_clubelec.png" alt="picture2" width="400"/>
+<img src="/img/2023-02-01-demenagement/photo_clubelec.jpg" alt="picture2" width="400"/>
 
 N'hésitez pas à passer nous voir durant nos permanences du mercredi midi qui reprennent en ce début de quadrimestre, ou même à participer au [projet][projet] qui y sera organisé du 28 février au 9 mars. Nous organiserons également un drink pour l'inauguration le 9 mars en début de soirée, plus d'informations à venir...
 
