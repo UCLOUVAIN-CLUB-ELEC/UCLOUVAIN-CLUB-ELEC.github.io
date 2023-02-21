@@ -8,4 +8,4 @@ end_date: 2023-03-15
 end_hour: "14:00:00"
 ---
 
-Retrouvez-nous comme toutes les semaines au local du Club Elec pour avancer sur vos projets d'électronique!
+Retrouvez-nous au local du Club Elec comme toutes les semaines pour avancer sur vos projets d'Ã©lectronique!
