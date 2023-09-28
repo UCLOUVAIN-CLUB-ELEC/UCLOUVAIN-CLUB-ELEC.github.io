@@ -5,4 +5,23 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Recrutement CLUB Elec
 X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+DTSTART:20231011T110000Z
+DTEND:20231011T120000Z
+DTSTAMP:20230928T130605Z
+UID:1i2v0on10cs5uov2ls4ab7gkug@google.com
+CREATED:20230928T125225Z
+DESCRIPTION:Vous voulez en savoir plus sur le CLUB ÉLEC ?<br>Notre club org
+ anise une petite réunion d'accueil pour vous présenter ce que l'on fait et\
+ , pourquoi pas\, recruter de nouveau membres ?<br><br>Site web du club : <a
+  href="https://uclouvain-club-elec.github.io/">https://uclouvain-club-elec.
+ github.io/</a>.
+LAST-MODIFIED:20230928T125559Z
+LOCATION:CLUB ELEC\, étage 0 du Maxwell\, directement à gauche après l'entr
+ ée
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Accueil CLUB ÉLEC & Recrutement
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
