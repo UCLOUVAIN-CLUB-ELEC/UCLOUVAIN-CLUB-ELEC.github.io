@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Projet du Q1 - Je fais mon premier PCB"
+date: 2023-10-11 14:00:00 +0200
+---
 Tu en as marre que tes projets d'électroniques aient l'air brouillon sur des breadboards avec des fils qui partent dans tous les sens ? Tu t'es toujours demandé comment concevoir un circuit imprimé pour leur donner un bel aspect professionel ? Ne cherche plus, le projet du semestre du Club Elec est fait pour toi !
 
 <img src="/img/pcb_stockimg.jpg" alt="pcb" width="600"/>
