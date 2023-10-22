@@ -11,4 +11,3 @@ A partir de ce 18 octobre, nous te proposons de venir découvrir l'outil Eagle q
 
 En pratique, rejoins-nous à la Salle Shannon (bâtiment Maxwell, aile a, 1er étage, salle a.105) les 18 et 26 octobre de 13h à 14h. Si tu ne sais pas être présent à l'une des deux séances, aucun problème: des séances de support supplémentaires facultatives sont également prévues les 31 octobre et 2 novembre. Pense à prendre ton ordinateur avec toi pour pouvoir installer l'outil et apprendre à l'utiliser. Le projet est 100% gratuit, nous te demandons juste de t'inscrire via le formulaire ci-dessous pour s'assurer que tout le monde ait une place et pour pouvoir prévenir les participants en cas d'imprévus.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckrsAtBdAUfEkXRZR2a68a12va6wcnFg-wczolClaRvoiLVw/viewform?embedded=true" width="640" height="701" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
